@@ -1,0 +1,70 @@
+[{
+	"name": "hero Product",
+	"id":"1",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "10",
+	"hero": "OMG This just came out today!",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"small",
+	"brand":"samsung",
+	"inCart":false
+},{
+	"name": "Product 1",
+	"id":"2",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "20",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"medium",
+	"brand":"apple",
+	"inCart":false
+},{
+	"name": "Product 2",
+	"id":"3",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "15",
+	"offer": "BOGOF",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"large",
+	"brand":"sony",
+	"inCart":false
+},{
+	"name": "Product 3",
+	"id":"4",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "25",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"small",
+	"brand":"samsung",
+	"inCart":false
+},{
+	"name": "Product 4",
+	"id":"5",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "40",
+	"offer": "No srsly GTFO",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"large",
+	"brand":"samsung",
+	"inCart":false
+},{
+	"name": "Product 5",
+	"id":"6",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "10",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"small",
+	"brand":"apple",
+	"inCart":false
+},{
+	"name": "Product 6",
+	"id":"7",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "20",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"offer": "info with offer",
+	"image": "http://placehold.it/300x300/999/CCC",
+	"size":"medium",
+	"brand":"sony",
+	"inCart":false
+}]

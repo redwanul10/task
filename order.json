@@ -1,0 +1,24 @@
+[
+    {
+        "name":"customer 1",
+        "email": "example.com",
+        "phone": 123455486,
+        "shipping-address":"....washington DC",
+        "items":[
+            {
+                "name": "hero Product",
+                "id":"1",
+                "detail": "Lorem ipsum dolor sit amet",
+                "price": "10",
+                "hero": "OMG This just came out today!",
+                "image": "http://placehold.it/300x300/999/CCC",
+                "size":"small",
+                "brand":"samsung",
+                "quantity":2,
+                "inCart":false
+            }
+        ],
+        "total":20,
+        "date" : "01.01.2020"
+    }
+]

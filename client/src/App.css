@@ -1,0 +1,40 @@
+
+nav {
+  background: orangered
+}
+
+.cart_icon {
+  background: orangered;
+  color: white;
+  padding: 5px 9px;
+  border-radius: 50%;
+}
+
+.cart_list i,.cart_list .quantity button{
+  font-size: 25px;
+}
+
+.cart_list {
+   height:90vh
+}
+
+.total_price {
+  position: absolute;
+  bottom: 25%;
+  left: 7%;
+}
+
+.item_wrapper div {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 11px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #26a69a;
+  opacity: 1; /* Firefox */
+}
+
+.w450 {
+  width: 450px
+}
