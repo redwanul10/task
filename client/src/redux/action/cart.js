@@ -31,15 +31,3 @@ export const decreaseQuantity = productId => dispatch =>{
 }
 
 
-
-export const openCart = ()=> dispatch =>{
-    dispatch({
-        type: Types.OPEN_CART,
-    })
-}
-
-export const closeCart = ()=> dispatch =>{
-    dispatch({
-        type: Types.CLOSE_CART,
-    })
-}

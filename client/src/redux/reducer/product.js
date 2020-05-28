@@ -28,24 +28,6 @@ export default (state = {items:[]} , action)=>{
 
             return{...state}
 
-        case Types.ADD_PRODUCT :
-
-            return {
-                ...state,
-                items:[...state.items,action.payload]
-            };
-        
-        case Types.DELETE_PRODUCT :
-             
-            return deleteProduct(state,action.payload.id)
-    
-        case Types.UPDATE_PRODUCT :
-
-            index = findProductIndex(state,action.payload.product.id)
-            state[index] = action.payload.product
-
-            return {...state}
-
         
         default:
             return state
